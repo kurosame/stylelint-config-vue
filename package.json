@@ -1,6 +1,6 @@
 {
   "name": "@kurosame/stylelint-config-vue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "StyleLint config for Vue.js",
   "main": "index.js",
   "repository": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/kurosame/stylelint-config-vue#readme",
   "dependencies": {
     "stylelint": "^13.0.0",
+    "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^20.0.0"
   }
 }
