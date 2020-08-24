@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/kurosame/stylelint-config-vue#readme",
   "dependencies": {
-    "stylelint": "^13.0.0",
-    "stylelint-config-prettier": "^8.0.2",
-    "stylelint-config-standard": "^20.0.0"
+    "stylelint": "13.6.1",
+    "stylelint-config-prettier": "8.0.2",
+    "stylelint-config-standard": "20.0.0"
   }
 }
